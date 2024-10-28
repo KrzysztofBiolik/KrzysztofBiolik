@@ -4,6 +4,8 @@
 
   ![Snake animation](https://raw.githubusercontent.com/KrzysztofBiolik/KrzysztofBiolik/output/github-contribution-grid-snake.svg)
 
+  👀 I'm looking for an internship or job. I'm most interested in developing my skills.
+
   ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -52,9 +54,7 @@
 
 
 
-  - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+👀 I’m interested in ...
 <!---
 KrzysztofBiolik/KrzysztofBiolik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
