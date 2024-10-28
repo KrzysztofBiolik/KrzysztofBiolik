@@ -6,7 +6,7 @@
 
   👀 I'm looking for an internship or job. I'm most interested in developing my skills.
 
-  ## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScirpt](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
@@ -27,13 +27,13 @@
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 ![Trello](https://img.shields.io/badge/-trello-05122A?style=flat&logo=trello)&nbsp;
 
-### 🛠 &nbsp;In progress...
+## 🛠 &nbsp;In progress...
 
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAeFBMVEVHcExaoEdBnzRCoTRSnj9HoTdInjo/nDBFnjU9nC5HoTZKojtHpThAlDJFnzQ/mzLAvaNBnDNBozRAozNfsk5qqFSmn4CjqoZIpTlBmDNDpDVOqj9DmjNKqDw/lTJSrENOnT1XrUZEnTRFoTZbsUths1BHlzd2nV/HS+4NAAAAGHRSTlMAMabvGFVEEP4HIt5+zbVvs5jH9da0VO84dmDdAAAAy0lEQVQokX3S2RaCIBQFUBxxNk0LRElS6///sAvmqhg6r3udy4jQd6IMOZN1ldO8biN1arewXzcSRFZLCwG45LF1aK5w8UNbkd3ECphYBmf5gZVZjSaFCcQzpjYTAyV3wNrAlkwKIZV+VhwonMHGAOs4ADIxjzIWlFUXDgopGDXw/EYZHdNWVRWW+m7T4oON8WyxmjtzSrl5udiHKntwzkvLX4kDqEo0bk+m2NHX93oMhjVL4032hL542n+JTNZfnYbQ5eQ25P1D/IsvY+4WbniWJIkAAAAASUVORK5CYII=)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodejs)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/KrzystofBiolik">
@@ -42,7 +42,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Contact with Me
+## 🤝🏻 &nbsp;Contact with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/krzysztof-biolik-b9760532b/"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -50,12 +50,3 @@
 <a href="https://www.instagram.com/krzysiek_biolik/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/krzysiek.biolik.9/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
-
-
-
-👀 I’m interested in ...
-<!---
-KrzysztofBiolik/KrzysztofBiolik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
